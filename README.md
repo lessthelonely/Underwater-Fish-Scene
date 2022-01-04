@@ -1,9 +1,15 @@
 # CGRA 2020/2021
 
-## Group T02G03
-| Name             | Number    | E-Mail              |
-| ---------------- | --------- | ------------------  |
-| Melissa Silva    | 201905076 | up201905076@fe.up.pt|
-| Mateus Silva     | 201906232 | up201906232@fe.up.pt|
+## Contribuidores
 
-----
+Melissa Silva
+
+Mateus Silva
+
+## Sobre o Projeto
+
+![](./project/screenshots/proj-t2g3-8c.gif)
+
+Trata-se de uma aplicação gráfica em Javascript + WebGL que mostra uma cena subaquática com um peixe controlável com teclado. Mais imagens em *project/screenshots*.
+
+Vídeos de demonstração podem ser descarreegados e vistos em: https://github.com/lessthelonely/cgra-project/tree/main/project/videos
